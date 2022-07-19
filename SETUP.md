@@ -6,7 +6,9 @@
 * USB to USB Type-C cable
 * Controller Hub battery
 
-## Setup Process
+## Hardware Setup Process
+
+### PC Software Setup
 
 * In your browser, go to [https://www.revrobotics.com/software/](https://www.revrobotics.com/software/)
 * Click on the `REV Hardware Client` link
@@ -21,6 +23,8 @@
 * Open the program
 
 ![](<.gitbook/assets/Screenshot 2022-07-15 151104.png>)
+
+### Robot Controller Setup
 
 * Plug the battery into your robot control hub
 * Plug the USB Type-C cable into the robot, connecting it to your computer. (The rectangle side goes into your computer)
@@ -38,6 +42,8 @@
 
 ![The 'Program and Manage' page.](<.gitbook/assets/Screenshot 2022-07-15 160944.png>)
 
-* Now, anyone that wants to wirelessly connect to the Control Hub, all they have to do is lookup the WiFi network with the name highlighted in green, and enter in the password (in yellow).
-  * From there, you can go to `192.168.43.1:8080`&#x20;
+### Wireless Communication Setup
+
+* Now, anyone that wants to wirelessly connect to the Control Hub can just lookup the WiFi network with the name (highlighted in green), and enter in the password (in yellow).
+  * From there, you can go to `192.168.43.1:8080` in your browser to get to the same page as above.
   * NOTE: CONNECTING TO THE ROBOT CONTOLLER OVER WIFI WILL DISCONNECT YOU FROM INTERNET
