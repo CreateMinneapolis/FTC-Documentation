@@ -18,7 +18,7 @@
 
 * Run the installer that is downloaded
 
-![](<.gitbook/assets/Screenshot 2022-07-15 135021.png>)
+![](<.gitbook/assets/Screenshot 2022-07-15 135021 (1) (1).png>)
 
 * Open the program
 
@@ -35,7 +35,7 @@
 * Click on the device. You should get to a page that looks like this:
   * You can update each of the systems of the control hub here. If there is an update, an update button will appear where the `Download` button is.
 
-![The 'Update' page.](<.gitbook/assets/Screenshot 2022-07-15 153554.png>)
+![The 'Update' page.](<.gitbook/assets/Screenshot 2022-07-15 153554 (1).png>)
 
 * Click on `Program and Manage`
   * Here you will find your network information. The text highlighted in green is you network SSID (what you will click on when you try to connect over WiFi). The portion highlighted in yellow is your password for the network.&#x20;
