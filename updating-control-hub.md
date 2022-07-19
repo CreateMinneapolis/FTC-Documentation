@@ -4,6 +4,8 @@
 
 Once one or more supported REV Hardware devices are connected that require updates, the **Update All** button will appear.
 
+![](.gitbook/assets/hardware-tab-hardware-detected-update-required.svg)
+
 Once Update All is selected the REV Hardware Client will confirm the updates for all connected devices. Select Update to download and update all devices.
 
 ## Individual Updates
