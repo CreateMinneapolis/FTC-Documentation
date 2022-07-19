@@ -1,4 +1,4 @@
-# 💻 Setup Instructions for FTC Robot Controller and PC
+# 💻 Setup Instructions for Robot Controller and PC
 
 ## Requirements:
 
@@ -38,4 +38,5 @@
 
 ![The 'Program and Manage' page.](<.gitbook/assets/Screenshot 2022-07-15 160944.png>)
 
-* Now, anyone that wants to connect to the&#x20;
+* Now, anyone that wants to wirelessly connect to the Control Hub, all they have to do is lookup the WiFi network with the name highlighted in green, and enter in the password (in yellow).
+* From there, you can go to 192.168.
