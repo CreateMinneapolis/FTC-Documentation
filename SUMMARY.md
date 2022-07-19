@@ -2,6 +2,7 @@
 
 * [📄 FTC Documentation](README.md)
 * [💻 Setup Instructions for Robot Controller and PC](SETUP.md)
-* [Updating Expansion Hub](updating-expansion-hub.md)
-* [Updating Control Hub](updating-control-hub.md)
 * [Restoring User Data](restoring-user-data.md)
+* [📥 Updating Hardware Instructions](updating-hardware-instructions/README.md)
+  * [Updating Control Hub](updating-hardware-instructions/updating-control-hub.md)
+  * [Updating Expansion Hub](updating-hardware-instructions/updating-expansion-hub.md)

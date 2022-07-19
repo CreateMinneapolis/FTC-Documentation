@@ -10,17 +10,16 @@
 
 ### PC Software Setup
 
-* In your browser, go to [https://www.revrobotics.com/software/](https://www.revrobotics.com/software/)
-* Click on the `REV Hardware Client` link
-* Install the latest version of the `REV Hardware Client`
+1. In your browser, go to [https://www.revrobotics.com/software/](https://www.revrobotics.com/software/)
+2. Click on the `REV Hardware Client` link -- this will download the installer
 
 ![](<.gitbook/assets/Screenshot 2022-07-15 134143 (2) (1).png>)
 
-* Run the installer that is downloaded
+3\. Run the installer that is downloaded (this will be in `Downloads`)
 
 ![](<.gitbook/assets/Screenshot 2022-07-15 135021 (1) (1).png>)
 
-* Open the program
+4\. After it finishes installing, open the program. You can find it if you search `REV Hardware Client`&#x20;
 
 ![](<.gitbook/assets/Screenshot 2022-07-15 151104 (2) (2).png>)
 
@@ -49,5 +48,8 @@
 ### Wireless Communication Setup
 
 * Now, anyone that wants to wirelessly connect to the Control Hub can just lookup the WiFi network with the name (highlighted in green), and enter in the password (in yellow).
-  * From there, you can go to `192.168.43.1:8080` in your browser to get to the same page as above.
+
+![](.gitbook/assets/Accessing%20RCC%20-%20opening%20available%20networks.svg)
+
+* From there, you can go to `192.168.43.1:8080` in your browser to get to the same page as above.
   * NOTE: CONNECTING TO THE ROBOT CONTOLLER OVER WIFI WILL DISCONNECT YOU FROM INTERNET
