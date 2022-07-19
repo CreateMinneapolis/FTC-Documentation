@@ -39,4 +39,5 @@
 ![The 'Program and Manage' page.](<.gitbook/assets/Screenshot 2022-07-15 160944.png>)
 
 * Now, anyone that wants to wirelessly connect to the Control Hub, all they have to do is lookup the WiFi network with the name highlighted in green, and enter in the password (in yellow).
-* From there, you can go to 192.168.
+  * From there, you can go to `192.168.43.1:8080`&#x20;
+  * NOTE: CONNECTING TO THE ROBOT CONTOLLER OVER WIFI WILL DISCONNECT YOU FROM INTERNET
