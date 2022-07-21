@@ -6,16 +6,16 @@ To get started with the updating process, plug the Expansion Hub into a PC using
 
 Startup the REV Hardware Client. Once the hub is fully connected it will show up on the front page of the UI under the **Hardware Tab**. Select the Expansion Hub.
 
-![](../.gitbook/assets/eh-firmware-open-page.svg)
+![](../../.gitbook/assets/eh-firmware-open-page.svg)
 
 After selecting the Connected Hardware the Update tab will pop up. Under **Hub Firmware** select Download.
 
-![](../.gitbook/assets/eh-firmware-download.svg)
+![](../../.gitbook/assets/eh-firmware-download.svg)
 
 Once the firmware has downloaded, select Update.
 
-![](../.gitbook/assets/eh-firmware-update.svg)
+![](../../.gitbook/assets/eh-firmware-update.svg)
 
 When the firmware update has completed a status message "Firmware successfully updated" The status for the Hub Firmware will also change to "Up-to-Date."
 
-![](../.gitbook/assets/eh-firmware-complete.svg)
+![](../../.gitbook/assets/eh-firmware-complete.svg)
