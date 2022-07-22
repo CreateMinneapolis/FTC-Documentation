@@ -6,8 +6,8 @@ Generally, teams choose one of two drivetrains:
 [tank-example.md](tank-example.md)
 {% endcontent-ref %}
 
-{% content-ref url="mecanum-example.md" %}
-[mecanum-example.md](mecanum-example.md)
+{% content-ref url="../mecanum-drive-example.md" %}
+[mecanum-drive-example.md](../mecanum-drive-example.md)
 {% endcontent-ref %}
 
 ### Choosing a Drivetrain

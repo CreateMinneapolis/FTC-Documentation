@@ -30,5 +30,5 @@
 
 * [Drivetrains](complete-examples/drivetrains/README.md)
   * [Tank Example](complete-examples/drivetrains/tank-example.md)
-  * [Mecanum Example](complete-examples/drivetrains/mecanum-example.md)
+  * [Mecanum Example](complete-examples/mecanum-drive-example.md)
 * [Vuforia Object Detection Sample](complete-examples/vuforia-object-detection-sample.md)
