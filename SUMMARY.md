@@ -10,14 +10,14 @@
 * [💻 Setup Instructions for Robot Controller and PC](ftc-setup-documentation/setup/README.md)
   * [Restoring User Data](ftc-setup-documentation/setup/restoring-user-data.md)
 
-## ⌨ Code
+## ⌨ Hardware/Code
 
-* [Motors](code/motors/README.md)
-  * [Core Hex Motor](code/motors/core-hex-motor.md)
-  * [40:1 HD Hex Motor](code/motors/40-1-hd-hex-motor.md)
-  * [UltraPlanetary HD Hex Motor](code/motors/ultraplanetary-hd-hex-motor.md)
-  * [Servo Motor](code/motors/servo-motor.md)
-* [Sensors](code/sensors.md)
+* [Motors](hardware-code/motors/README.md)
+  * [Core Hex Motor](hardware-code/motors/core-hex-motor.md)
+  * [40:1 HD Hex Motor](hardware-code/motors/40-1-hd-hex-motor.md)
+  * [UltraPlanetary HD Hex Motor](hardware-code/motors/ultraplanetary-hd-hex-motor.md)
+  * [Servo Motor](hardware-code/motors/servo-motor.md)
+* [Sensors](hardware-code/sensors.md)
 
 ## 🔧 Complete Examples
 
