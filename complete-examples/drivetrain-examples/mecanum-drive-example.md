@@ -2,7 +2,7 @@
 
 [REV Robotics Build Guide](https://docs.revrobotics.com/duo-build/mecanum-drivetrain-kit-mecanum-drivetrain)
 
-![](../.gitbook/assets/MDK\_Default.svg)
+![](../../.gitbook/assets/MDK\_Default.svg)
 
 ```
 // Define our code package
