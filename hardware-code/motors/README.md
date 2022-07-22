@@ -21,3 +21,7 @@ There are a variety of motors included in the REV Robotics kits, including:
 {% content-ref url="motor-encoders.md" %}
 [motor-encoders.md](motor-encoders.md)
 {% endcontent-ref %}
+
+{% content-ref url="sparkmini-motor-controller.md" %}
+[sparkmini-motor-controller.md](sparkmini-motor-controller.md)
+{% endcontent-ref %}
