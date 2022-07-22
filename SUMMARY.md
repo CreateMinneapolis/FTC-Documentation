@@ -9,6 +9,7 @@
   * [Updating Expansion Hub](ftc-setup-documentation/updating-hardware-instructions/updating-expansion-hub.md)
 * [💻 Setup Instructions for Robot Controller and PC](ftc-setup-documentation/setup/README.md)
   * [Restoring User Data](ftc-setup-documentation/setup/restoring-user-data.md)
+* [Control Hub Specifications](ftc-setup-documentation/control-hub-specifications.md)
 
 ## ⌨ Hardware/Code
 
@@ -18,10 +19,10 @@
   * [UltraPlanetary HD Hex Motor](hardware-code/motors/ultraplanetary-hd-hex-motor.md)
   * [Servo Motor](hardware-code/motors/servo-motor.md)
   * [Motor Encoders](hardware-code/motors/motor-encoders.md)
+  * [SPARKmini Motor Controller](hardware-code/motors/sparkmini-motor-controller.md)
 * [Sensors](hardware-code/sensors.md)
   * [REV Touch Sensor](hardware-code/sensors/rev-touch-sensor.md)
   * [REV Color Sensor](hardware-code/sensors/rev-color-sensor.md)
-  * [Built-in Gyroscope](hardware-code/sensors/built-in-gyroscope.md)
   * [BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
   * [USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
   * [Encoders](https://cecil-nathanael-smith.gitbook.io/ftc-documentation/hardware-code/motors/motor-encoders)
