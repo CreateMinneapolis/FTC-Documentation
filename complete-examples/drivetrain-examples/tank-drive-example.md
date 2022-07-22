@@ -1,2 +1,0 @@
-# Tank Drive Example
-

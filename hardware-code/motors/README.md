@@ -17,3 +17,7 @@ There are a variety of motors included in the REV Robotics kits, including:
 {% content-ref url="servo-motor.md" %}
 [servo-motor.md](servo-motor.md)
 {% endcontent-ref %}
+
+{% content-ref url="motor-encoders.md" %}
+[motor-encoders.md](motor-encoders.md)
+{% endcontent-ref %}

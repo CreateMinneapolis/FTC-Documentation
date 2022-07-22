@@ -1,4 +1,4 @@
-# Mecanum Drive Example
+# Mecanum Example
 
 [REV Robotics Build Guide](https://docs.revrobotics.com/duo-build/mecanum-drivetrain-kit-mecanum-drivetrain)
 
