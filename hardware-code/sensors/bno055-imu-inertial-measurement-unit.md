@@ -6,6 +6,8 @@ You can add more of these sensors by connecting each additional one to an I2C po
 
 ### Accessing the Built-in Sensor
 
+**Expansion Hubs purchased AFTER December 2021 no longer include an internal IMU**
+
 ![](../../.gitbook/assets/image-2.png)
 
 1. The internal address of this sensor is `0x28` on port 0
