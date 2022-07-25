@@ -1,4 +1,4 @@
-# Drivetrains
+# 🚘 Drivetrains
 
 Generally, teams choose one of two drivetrains:
 
@@ -20,4 +20,4 @@ When teams choose a drivetrain, they must weigh the pros and cons of each soluti
 
 No two seasons are the same. To effectively compete, you must choose the drivetrain that will give you the greatest efficiency at competition.
 
-#### [REV Robotics Documentation](https://docs.revrobotics.com/kickoff-concepts/freight-frenzy-2021-2022/drivetrain)
+### [REV Robotics Documentation](https://docs.revrobotics.com/kickoff-concepts/freight-frenzy-2021-2022/drivetrain)

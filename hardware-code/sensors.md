@@ -20,10 +20,12 @@ The REV Robotics kits give you access to an assortment of sensors including:
 
 Other third-party sensors can be added to the robot for greater precision/more capabilities. Some of these include:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="sensors/usb-camera-s.md" %}
 [usb-camera-s.md](sensors/usb-camera-s.md)
 {% endcontent-ref %}
+
+{% content-ref url="sensors/external-i2c-devices.md" %}
+[external-i2c-devices.md](sensors/external-i2c-devices.md)
+{% endcontent-ref %}
+
+### [REV Robotics Documentation](https://docs.revrobotics.com/docs/rev-duo#sensors)

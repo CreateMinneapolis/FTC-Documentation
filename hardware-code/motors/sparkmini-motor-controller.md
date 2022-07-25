@@ -8,4 +8,4 @@ The motor controller takes power in (using the same power source as the control 
 
 As of 7/22/2022, each controller costs $35. [https://www.revrobotics.com/rev-31-1230/](https://www.revrobotics.com/rev-31-1230/)
 
-More documentation can be found [here](https://docs.revrobotics.com/duo-control/adding-more-motors/sparkmini-motor-controller)
+### [REV Robotics Documentation](https://docs.revrobotics.com/duo-control/adding-more-motors/sparkmini-motor-controller)

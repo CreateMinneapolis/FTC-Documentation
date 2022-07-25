@@ -1,4 +1,4 @@
-# REV Touch Sensor
+# 👆 REV Touch Sensor
 
 ![](../../.gitbook/assets/image-4.png)
 

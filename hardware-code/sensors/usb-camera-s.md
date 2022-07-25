@@ -1,2 +1,2 @@
-# USB Camera(s)
+# 📸 USB Camera(s)
 

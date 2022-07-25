@@ -21,15 +21,23 @@
   * [Motor Encoders](hardware-code/motors/motor-encoders.md)
   * [SPARKmini Motor Controller](hardware-code/motors/sparkmini-motor-controller.md)
 * [Sensors](hardware-code/sensors.md)
-  * [REV Touch Sensor](hardware-code/sensors/rev-touch-sensor.md)
-  * [REV Color Sensor (v3)](hardware-code/sensors/rev-color-sensor-v3.md)
-  * [BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
-  * [USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
+  * [👆 REV Touch Sensor](hardware-code/sensors/rev-touch-sensor.md)
+  * [🚥 REV Color Sensor (v3)](hardware-code/sensors/rev-color-sensor-v3.md)
+  * [🧲 Magnetic Limit Switch](hardware-code/sensors/magnetic-limit-switch.md)
+  * [🔃 BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
+  * [📸 USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
+  * [🔌 External I2C Devices](hardware-code/sensors/external-i2c-devices.md)
   * [Encoders](https://cecil-nathanael-smith.gitbook.io/ftc-documentation/hardware-code/motors/motor-encoders)
 
 ## 🔧 Complete Examples
 
-* [Drivetrains](complete-examples/drivetrains/README.md)
-  * [Tank Example](complete-examples/drivetrains/tank-example.md)
-  * [Mecanum Example](complete-examples/mecanum-drive-example.md)
-* [Vuforia Object Detection Sample](complete-examples/vuforia-object-detection-sample.md)
+* [🚘 Drivetrains](complete-examples/drivetrains/README.md)
+  * [↕ Tank Example](complete-examples/drivetrains/tank-example.md)
+  * [↔ Mecanum Example](complete-examples/mecanum-drive-example.md)
+
+## 💻 Code
+
+* [Code Examples](code/code-examples/README.md)
+  * [TeleOp](code/code-examples/teleop.md)
+  * [Autonomous Op](code/code-examples/autonomous-op.md)
+  * [Vuforia Object Detection Sample](code/code-examples/vuforia-object-detection-sample.md)

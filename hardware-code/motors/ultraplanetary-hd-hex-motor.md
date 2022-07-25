@@ -1,4 +1,4 @@
 # UltraPlanetary HD Hex Motor
 
-[REV Robotics Documentation](https://docs.revrobotics.com/ultraplanetary/)
+### [REV Robotics Documentation](https://docs.revrobotics.com/ultraplanetary/)
 

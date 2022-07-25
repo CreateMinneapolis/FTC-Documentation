@@ -30,6 +30,6 @@ Documentation for all aspects of FTC written by [createMPLS](https://github.com/
 [drivetrains](complete-examples/drivetrains/)
 {% endcontent-ref %}
 
-{% content-ref url="complete-examples/vuforia-object-detection-sample.md" %}
-[vuforia-object-detection-sample.md](complete-examples/vuforia-object-detection-sample.md)
+{% content-ref url="code/code-examples/vuforia-object-detection-sample.md" %}
+[vuforia-object-detection-sample.md](code/code-examples/vuforia-object-detection-sample.md)
 {% endcontent-ref %}

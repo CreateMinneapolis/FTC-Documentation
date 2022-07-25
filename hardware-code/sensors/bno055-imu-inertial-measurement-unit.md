@@ -1,4 +1,4 @@
-# BNO055 IMU (Inertial Measurement Unit)
+# 🔃 BNO055 IMU (Inertial Measurement Unit)
 
 There is already an absolute orientation sensor built-in to the robot. It uses the I2C interface to read/write data to the robot.&#x20;
 
@@ -32,3 +32,5 @@ Additional IMU's can be added via the I2C ports on the right side of the Control
 #### Device Search
 
 #### Reading Data from IMU
+
+### [REV Robotics Documentation](https://docs.revrobotics.com/duo-control/sensors/i2c/imu)
