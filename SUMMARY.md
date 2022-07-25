@@ -22,7 +22,7 @@
   * [SPARKmini Motor Controller](hardware-code/motors/sparkmini-motor-controller.md)
 * [Sensors](hardware-code/sensors.md)
   * [REV Touch Sensor](hardware-code/sensors/rev-touch-sensor.md)
-  * [REV Color Sensor](hardware-code/sensors/rev-color-sensor.md)
+  * [REV Color Sensor (v3)](hardware-code/sensors/rev-color-sensor-v3.md)
   * [BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
   * [USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
   * [Encoders](https://cecil-nathanael-smith.gitbook.io/ftc-documentation/hardware-code/motors/motor-encoders)

@@ -8,8 +8,8 @@ The REV Robotics kits give you access to an assortment of sensors including:
 [rev-touch-sensor.md](sensors/rev-touch-sensor.md)
 {% endcontent-ref %}
 
-{% content-ref url="sensors/rev-color-sensor.md" %}
-[rev-color-sensor.md](sensors/rev-color-sensor.md)
+{% content-ref url="sensors/rev-color-sensor-v3.md" %}
+[rev-color-sensor-v3.md](sensors/rev-color-sensor-v3.md)
 {% endcontent-ref %}
 
 {% content-ref url="sensors/bno055-imu-inertial-measurement-unit.md" %}
