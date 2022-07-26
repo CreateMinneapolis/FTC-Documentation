@@ -33,6 +33,7 @@
 
 * [🚘 Drivetrains](complete-examples/drivetrains/README.md)
   * [↕ Tank Example](complete-examples/drivetrains/tank-example.md)
+  * [Tank Drivetrain Code](complete-examples/drivetrains/tank-drivetrain-code.md)
   * [↔ Mecanum Example](complete-examples/mecanum-drive-example.md)
 
 ## 💻 Code
