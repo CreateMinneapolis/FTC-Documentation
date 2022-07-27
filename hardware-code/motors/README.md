@@ -10,8 +10,8 @@ There are a variety of motors included in the REV Robotics kits, including:
 [40-1-hd-hex-motor.md](40-1-hd-hex-motor.md)
 {% endcontent-ref %}
 
-{% content-ref url="ultraplanetary-hd-gearing-with-hex-motor.md" %}
-[ultraplanetary-hd-gearing-with-hex-motor.md](ultraplanetary-hd-gearing-with-hex-motor.md)
+{% content-ref url="ultraplanetary-hd-gearing-with-core-hex-motor.md" %}
+[ultraplanetary-hd-gearing-with-core-hex-motor.md](ultraplanetary-hd-gearing-with-core-hex-motor.md)
 {% endcontent-ref %}
 
 {% content-ref url="servo-motor.md" %}
