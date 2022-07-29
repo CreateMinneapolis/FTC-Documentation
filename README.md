@@ -33,3 +33,7 @@ Documentation for all aspects of FTC written by [createMPLS](https://github.com/
 {% content-ref url="code/code-examples/vuforia-object-detection-sample.md" %}
 [vuforia-object-detection-sample.md](code/code-examples/vuforia-object-detection-sample.md)
 {% endcontent-ref %}
+
+### REV Documentation Pages
+
+[https://www.revrobotics.com/resources/](https://www.revrobotics.com/resources/)
