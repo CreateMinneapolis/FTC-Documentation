@@ -4,7 +4,7 @@
 
 Like all digital sensors, the Touch Sensor acts on a binary. When the button is not pressed, the LED light remains unlit and the value read by the Hub is 3.3V (high) and when the button is pressed the LED will light and the Hub will read 0V (low). In the code, the button will return '0' if not pressed and '1' if pressed.
 
-### Example Code
+## Example Code
 
 The code below runs a motor while the button has not been pressed.
 
@@ -54,8 +54,8 @@ public class TouchTest extends LinearOpMode {
 {% endtab %}
 {% endtabs %}
 
-### Mechanical Specifications
+## Mechanical Specifications
 
 ![](../../.gitbook/assets/image-5.png)
 
-### [REV Robotics Documentation](https://docs.revrobotics.com/touch-sensor/)
+## [REV Robotics Documentation](https://docs.revrobotics.com/touch-sensor/)
