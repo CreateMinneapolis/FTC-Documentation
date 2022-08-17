@@ -2,6 +2,10 @@
 
 (Information pulled from REV Robotics documentation)
 
+{% content-ref url="motor-encoders/encoder-code.md" %}
+[encoder-code.md](motor-encoders/encoder-code.md)
+{% endcontent-ref %}
+
 ### What is an Encoder?
 
 An encoder is anything (device, software, person) that _converts_ information from one format into another. Some examples of encoding include:&#x20;
@@ -28,11 +32,11 @@ Encoders measure a real world change (shaft rotation) and convert it to an elect
 
 A 12 pole magnetic quadrature encoder is installed on the rear of both the HD Hex Motor and Core Hex Motor. The output shaft of the motor extends from the rear of the motor case and a multi-pole permanent magnet is attached to the shaft. There are two Hall effect sensors, marked ‘A’ and ‘B’, mounted next to the magnet at 90° to each other. As each of the 12 poles passes across one of the Hall effect sensors, it creates a change in the magnetic field causing the sensor to generate a measurable voltage signal.
 
-![Typical Encoder Configuration Installed on the Rear of a Motor](../../../.gitbook/assets/assets-ftc-control-system--M7xeR0wyMXoIwV8ldL1--M7xg89rN\_nO1-4JRef4-1.png)
+![Typical Encoder Configuration Installed on the Rear of a Motor](../../.gitbook/assets/assets-ftc-control-system--M7xeR0wyMXoIwV8ldL1--M7xg89rN\_nO1-4JRef4-1.png)
 
 Quadrature encoders are a specific type of relative encoder that have four different output states. If the root _quad-_, means four, but there are only two sensors in this encoder, where does the name come from? The output from the two Hall effect sensors are called “Channel A” and Channel B” respectively; an example of the output is shown below. In a single period (T), defined as the duration of time of one complete cycle in a repeating pattern, the timing diagram has four distinct states (see a, b, c, and d below), hence a quadrature encoder.
 
-![Clockwise Quadrature Encoder Output Timing Diagram](../../../.gitbook/assets/assets-ftc-control-system--M7xeR0wyMXoIwV8ldL1--M7xg89sYz2Fo51GcCss-2.png)
+![Clockwise Quadrature Encoder Output Timing Diagram](../../.gitbook/assets/assets-ftc-control-system--M7xeR0wyMXoIwV8ldL1--M7xg89sYz2Fo51GcCss-2.png)
 
 The offset from Channel A to Channel B is because the sensors are offset from each other by 90°. As the motor rotates one sensor will see the change before the other. When the motor shaft rotates clockwise (CW), Channel A will lead (the edge will rise before) Channel B. When the motor spins counter clockwise (CCW) Channel A will lag (rise after) Channel B. If there was only one sensor it would still be possible to measure the number of rotations, but not to detect the direction of the motor.
 

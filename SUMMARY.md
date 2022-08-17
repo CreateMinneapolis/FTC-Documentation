@@ -18,7 +18,7 @@
   * [40:1 HD Hex Motor](hardware-code/motors/40-1-hd-hex-motor.md)
   * [UltraPlanetary HD Gearing (with Core Hex Motor)](hardware-code/motors/ultraplanetary-hd-gearing-with-core-hex-motor.md)
   * [Servo Motor](hardware-code/motors/servo-motor.md)
-  * [Motor Encoders](hardware-code/motors/motor-encoders/README.md)
+  * [Motor Encoders](hardware-code/motors/motor-encoders.md)
     * [Encoder Code](hardware-code/motors/motor-encoders/encoder-code.md)
   * [SPARKmini Motor Controller](hardware-code/motors/sparkmini-motor-controller.md)
 * [Sensors](hardware-code/sensors.md)
