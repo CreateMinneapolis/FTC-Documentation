@@ -15,9 +15,10 @@
 
 * [Motors](hardware-code/motors/README.md)
   * [Core Hex Motor](hardware-code/motors/core-hex-motor.md)
-  * [40:1 HD Hex Motor](hardware-code/motors/40-1-hd-hex-motor.md)
-  * [UltraPlanetary HD Gearing (with Core Hex Motor)](hardware-code/motors/ultraplanetary-hd-gearing-with-core-hex-motor.md)
-  * [Servo Motor](hardware-code/motors/servo-motor.md)
+  * [40:1 Spur Gearbox (with HD Hex Motor)](hardware-code/motors/40-1-spur-gearbox-with-hd-hex-motor.md)
+  * [UltraPlanetary HD Gearing (with HD Hex Motor)](hardware-code/motors/ultraplanetary-hd-gearing-with-hd-hex-motor.md)
+  * [Servo Motor](hardware-code/motors/servo-motor/README.md)
+    * [Servo Programmer](hardware-code/motors/servo-motor/servo-programmer.md)
   * [Motor Encoders](hardware-code/motors/motor-encoders.md)
     * [Encoder Code](hardware-code/motors/motor-encoders/encoder-code.md)
   * [SPARKmini Motor Controller](hardware-code/motors/sparkmini-motor-controller.md)

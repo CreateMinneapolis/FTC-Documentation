@@ -6,16 +6,16 @@ There are a variety of motors included in the REV Robotics kits, including:
 [core-hex-motor.md](core-hex-motor.md)
 {% endcontent-ref %}
 
-{% content-ref url="40-1-hd-hex-motor.md" %}
-[40-1-hd-hex-motor.md](40-1-hd-hex-motor.md)
+{% content-ref url="40-1-spur-gearbox-with-hd-hex-motor.md" %}
+[40-1-spur-gearbox-with-hd-hex-motor.md](40-1-spur-gearbox-with-hd-hex-motor.md)
 {% endcontent-ref %}
 
-{% content-ref url="ultraplanetary-hd-gearing-with-core-hex-motor.md" %}
-[ultraplanetary-hd-gearing-with-core-hex-motor.md](ultraplanetary-hd-gearing-with-core-hex-motor.md)
+{% content-ref url="ultraplanetary-hd-gearing-with-hd-hex-motor.md" %}
+[ultraplanetary-hd-gearing-with-hd-hex-motor.md](ultraplanetary-hd-gearing-with-hd-hex-motor.md)
 {% endcontent-ref %}
 
-{% content-ref url="servo-motor.md" %}
-[servo-motor.md](servo-motor.md)
+{% content-ref url="servo-motor/" %}
+[servo-motor](servo-motor/)
 {% endcontent-ref %}
 
 {% content-ref url="motor-encoders.md" %}
