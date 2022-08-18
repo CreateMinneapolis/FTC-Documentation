@@ -27,7 +27,7 @@ The code blocks below gives a basic example of how to use the Magnetic Limit Swi
 ![](../../.gitbook/assets/Screenshot%20\(118\).png)
 {% endtab %}
 
-{% tab title="OnBot Java" %}
+{% tab title="Java" %}
 {% hint style="info" %}
 The code assumes the sensor has been named "Limit" and the motor has been named "Motor" in configuration.&#x20;
 {% endhint %}

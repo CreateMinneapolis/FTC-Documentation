@@ -10,27 +10,30 @@ You can add more of these sensors by connecting each additional one to an I2C po
 
 ![](../../.gitbook/assets/image-2.png)
 
-1. The internal address of this sensor is `0x28` on port 0
-2. Run the following code to connect to the sensor and read data off of it.
+{% hint style="info" %}
+The internal address of this sensor is `0x28.` It can use any port.
+{% endhint %}
 
-```
-// Connecting to internal I2C
-```
+For more information on connecting to the sensor, refer to the [REV Documentation](bno055-imu-inertial-measurement-unit.md#rev-robotics-documentation) or the [I2C page](external-i2c-devices.md).
 
 ### Connecting Additional Sensors
 
 Additional IMU's can be added via the I2C ports on the right side of the Control Hub.&#x20;
 
-* (For more information about connections, refer to the pinout)
-
-{% content-ref url="../../ftc-setup-documentation/control-hub-specifications.md" %}
-[control-hub-specifications.md](../../ftc-setup-documentation/control-hub-specifications.md)
-{% endcontent-ref %}
-
-#### Wiring
+{% hint style="info" %}
+For more information about connections, refer to the I2C [pinout](external-i2c-devices.md)
+{% endhint %}
 
 #### Device Search
 
-#### Reading Data from IMU
+Because we know that this device has an address of `0x28`, we just need to determine the port so we can read data from the IMU. [This is determined by your configuration.](external-i2c-devices.md#step-1)
+
+## Reading Data from IMU
+
+After our configuration is setup correctly, we can read data from the IMU.
+
+{% hint style="info" %}
+For an example of this in action, simply select the 'IMU' template when creating a new program.
+{% endhint %}
 
 ### [REV Robotics Documentation](https://docs.revrobotics.com/duo-control/sensors/i2c/imu)

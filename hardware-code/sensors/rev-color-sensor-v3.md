@@ -39,7 +39,7 @@ This program shows the values from the Color Sensor on your phone. Your team wil
 ![](<../../.gitbook/assets/Color Sensor Blocks.png>)
 {% endtab %}
 
-{% tab title="OnBot Java" %}
+{% tab title="Java" %}
 {% hint style="info" %}
 The code assumes that the Color Sensor was configured with the name “Color.”
 {% endhint %}

@@ -26,6 +26,7 @@
   * [👆 REV Touch Sensor](hardware-code/sensors/rev-touch-sensor.md)
   * [🚥 REV Color Sensor (v3)](hardware-code/sensors/rev-color-sensor-v3.md)
   * [🧲 Magnetic Limit Switch](hardware-code/sensors/magnetic-limit-switch.md)
+  * [↔ 2m Distance Sensor](hardware-code/sensors/2m-distance-sensor.md)
   * [🔃 BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
   * [📸 USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
   * [🔌 External I2C Devices](hardware-code/sensors/external-i2c-devices.md)
