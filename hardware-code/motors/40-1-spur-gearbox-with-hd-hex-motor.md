@@ -20,6 +20,8 @@ The 40:1 motor kit uses a spur gearbox with the HD Hex Motor (not to be confused
 
 The code for the 40:1 motor is fairly standard. Because it uses the same HD Hex Motor at its core as other motors, there is only a need to configure it correctly in the 'Configurations' page (with can be accessed via the phones). It is beneficial to select the '40:1 HD Hex Motor' option on that page so that the Control Hub knows how to effectively apply power to the motor and the encoder can correctly read the data.&#x20;
 
+### [Code Example](motor-encoders/encoder-code.md#choosing-a-motor-mode)
+
 ## [REV Robotics Documentation](https://docs.revrobotics.com/duo-build/actuators/motors/hd-hex-motor#spur-gearboxes)
 
 #### Buy another [here](https://www.revrobotics.com/rev-41-1301/)

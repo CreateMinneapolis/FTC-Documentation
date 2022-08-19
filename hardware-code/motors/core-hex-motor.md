@@ -20,4 +20,6 @@ While it may be more versatile than the HD Hex Motor kits ([40:1](40-1-spur-gear
 
 The code for the Core Hex Motor is not difficult at all. It follows the same standard structure as all the other DC motors.&#x20;
 
+#### [Code Example](motor-encoders/encoder-code.md#choosing-a-motor-mode)
+
 ## [REV Robotics Documentation](https://docs.revrobotics.com/duo-build/actuators/motors/core-hex-motor)

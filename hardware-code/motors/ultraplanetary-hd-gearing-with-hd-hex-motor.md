@@ -1,4 +1,4 @@
-# UltraPlanetary HD Gearing (with Core Hex Motor)
+# UltraPlanetary HD Gearing (with HD Hex Motor)
 
 ![](../../.gitbook/assets/UltraPlanetary\_Cartridge\_Laying\_Down\_\_17448.png) ![](../../.gitbook/assets/assets-manuals-and-specifications--MCyu6E5roUn\_JiVb55w--MCyuVOUYo\_SPkrPNDrW-1.png)
 
@@ -30,3 +30,5 @@ Often, multiple gears will be placed on top of each other in the assembly to mul
 ### [Cartridge Details](https://docs.revrobotics.com/ultraplanetary/ultraplanetary-gearbox/cartridge-details)
 
 ### [Load Ratings](https://docs.revrobotics.com/ultraplanetary/ultraplanetary-gearbox/load-ratings)
+
+### [Code](motor-encoders/encoder-code.md#choosing-a-motor-mode)

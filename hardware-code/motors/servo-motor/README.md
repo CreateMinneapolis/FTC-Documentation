@@ -44,7 +44,9 @@ Once valid limits are programmed, the Servo will ignore any pulses that exceed t
 
 ## Code
 
-Look at provided examples.
+Refer to REV Robotics docs: [here](https://docs.revrobotics.com/duo-control/programming/hello-robot-test-bed/test-bed-blocks#servo-basics)
+
+![The Servo in this example has been configured to be called 'test\_servo'](../../../.gitbook/assets/blocks%20-%20servo%20final%20code.svg)
 
 ## [REV Robotics Documentation](https://docs.revrobotics.com/duo-build/actuators/servos/smart-robot-servo)
 

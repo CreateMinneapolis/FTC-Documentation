@@ -30,7 +30,7 @@
   * [🔃 BNO055 IMU (Inertial Measurement Unit)](hardware-code/sensors/bno055-imu-inertial-measurement-unit.md)
   * [📸 USB Camera(s)](hardware-code/sensors/usb-camera-s.md)
   * [🔌 External I2C Devices](hardware-code/sensors/external-i2c-devices.md)
-  * [Encoders](https://cecil-nathanael-smith.gitbook.io/ftc-documentation/hardware-code/motors/motor-encoders)
+  * [Encoders](hardware-code/motors/motor-encoders.md)
 
 ## 🔧 Complete Examples
 
