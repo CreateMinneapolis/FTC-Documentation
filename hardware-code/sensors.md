@@ -12,6 +12,14 @@ The REV Robotics kits give you access to an assortment of sensors including:
 [rev-color-sensor-v3.md](sensors/rev-color-sensor-v3.md)
 {% endcontent-ref %}
 
+{% content-ref url="sensors/magnetic-limit-switch.md" %}
+[magnetic-limit-switch.md](sensors/magnetic-limit-switch.md)
+{% endcontent-ref %}
+
+{% content-ref url="sensors/2m-distance-sensor.md" %}
+[2m-distance-sensor.md](sensors/2m-distance-sensor.md)
+{% endcontent-ref %}
+
 {% content-ref url="sensors/bno055-imu-inertial-measurement-unit.md" %}
 [bno055-imu-inertial-measurement-unit.md](sensors/bno055-imu-inertial-measurement-unit.md)
 {% endcontent-ref %}
