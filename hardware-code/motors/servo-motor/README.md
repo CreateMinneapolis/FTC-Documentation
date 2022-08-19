@@ -42,9 +42,9 @@ Once valid limits are programmed, the Servo will ignore any pulses that exceed t
 
 ![](https://2589213514-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-M5yw0n8IneF5-9ybLjT%2F-MB\_vrFI\_mJbhAOGXIO5%2F-MB\_z3iQG92g4sFKXPuk%2FServo\_Full\_270\_Range\_And\_Limits-01.png?alt=media\&token=b86e324d-b901-48dc-af88-fca499bb04f7)
 
-## Code Example
+## Code
 
-
+Look at provided examples.
 
 ## [REV Robotics Documentation](https://docs.revrobotics.com/duo-build/actuators/servos/smart-robot-servo)
 
